@@ -1,0 +1,11 @@
+langchain_community 
+tiktoken 
+langchain-openai 
+langchainhub 
+chromadb 
+langchain 
+langgraph 
+tavily-python 
+sentence_transformers 
+langchain_groq 
+bs4
