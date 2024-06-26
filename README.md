@@ -17,6 +17,7 @@ We will implement some of these ideas from scratch using <a href="https://langch
 - We'll use <a href="https://python.langchain.com/v0.2/docs/integrations/tools/tavily_search/">Tavily Search</a> for web search.
 - Let's use query re-writing to optimize the query for web search.
 
+<br>
 
+![image](https://github.com/AshishCodeCraft26/Corrective-RAG/assets/135592934/ac6a575b-0c49-43bb-ab5e-0b66cf93f62a)
 
-<br>![image](https://github.com/AshishCodeCraft26/Advance-RAG/assets/135592934/e703ae89-7c04-4656-9e55-32b560e41e84)</br>
